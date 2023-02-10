@@ -1,0 +1,15 @@
+.textarea{
+    height: 300px;
+    width: 700px;
+    margin-left: 400px;
+}
+
+.cntc{
+    margin-left: 400px;
+    height: 40px;
+    width: 130px;
+    border-radius:20px;
+    color: rgb(98, 0, 255);
+    background: linear-gradient(rgb(0, 255, 76),rgb(217, 255, 0)) ;
+    cursor: pointer;
+}

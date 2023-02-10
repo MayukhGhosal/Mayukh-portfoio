@@ -1,0 +1,50 @@
+.myImage{
+height: 400px;
+width: 400px;
+border-radius: 100%;
+margin-left: 8px;
+position: absolute;
+left: 1000px;
+top:150px;
+/* mix-blend-mode: multiply; */
+}
+
+.body{
+    background-image:url("../images/Background.jpg");
+}
+
+.fontt{
+    font-size: 80px;
+    padding-left: 50px;
+    color: rgb(89, 0, 255);
+}
+
+.button{
+    height: 40px;
+    width: 130px;
+    border-radius:20px;
+    margin-left: 50px;
+    color: rgb(98, 0, 255);
+    background: linear-gradient(rgb(0, 255, 76),rgb(217, 255, 0)) ;
+    cursor: pointer;
+}
+.Social{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.social-image{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+
+}
+
+@media screen and(max-width:480px){
+    .body{
+        display:flex;
+        flex-direction: column;
+    }
+}

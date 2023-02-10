@@ -1,0 +1,19 @@
+.Education{
+    background-color: aqua;
+    padding-left: 630px;
+    border-radius: 50px;
+}
+
+.about{
+    height: 500px;
+}
+
+.aboutt{
+    font-size: 40px;
+    color: rgb(12, 2, 75);
+}
+
+.Skills{
+    color: rgb(14, 0, 74);
+    font-weight: 800;
+}
