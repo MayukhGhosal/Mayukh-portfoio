@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mayukh-portfoio/static/css/main.068a9a24.css",
+    "main.js": "/Mayukh-portfoio/static/js/main.0d7004fe.js",
+    "static/media/instagram.webp": "/Mayukh-portfoio/static/media/instagram.5566323f7cbea06e409f.webp",
+    "static/media/Resume.jpeg": "/Mayukh-portfoio/static/media/Resume.dc3d8ceebdc3b1a36475.jpeg",
+    "static/media/Github.png": "/Mayukh-portfoio/static/media/Github.ff2648078e819f6a9666.png",
+    "static/media/Facebook.png": "/Mayukh-portfoio/static/media/Facebook.64a68b03a4a44d9aab27.png",
+    "static/media/Img.jpeg": "/Mayukh-portfoio/static/media/Img.578b2a654fdd2e07060d.jpeg",
+    "index.html": "/Mayukh-portfoio/index.html",
+    "main.068a9a24.css.map": "/Mayukh-portfoio/static/css/main.068a9a24.css.map",
+    "main.0d7004fe.js.map": "/Mayukh-portfoio/static/js/main.0d7004fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068a9a24.css",
+    "static/js/main.0d7004fe.js"
+  ]
+}
